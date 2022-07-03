@@ -3,7 +3,7 @@ Sunbelt 2022 workshop 39 Analysis of complex networks with algebra
 
 ## Datasets
 
-### Group of twenty (Wikipedia, 2017, 2019)` 
+### Group of twenty (Wikipedia, 2017, 2019) 
 * `G20.rda` 
 * `G20bm.rda` 
 * `G20bn.rda` 
