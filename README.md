@@ -21,3 +21,18 @@ Sunbelt 2022 workshop 39 Analysis of complex networks with algebra
 
 ### Monastery novices (Sampson, 1969)
 * `sampson.dat` 
+
+<br><br>
+
+## Presentations
+
+## Content
+
+* [Introduction – Monastery novices network](https://htmlpreview.github.io/?https://github.com/mplex/sunbelt2022/blob/main/html/Intro_plotting.html)
+* [Elementary Algebraic Structures](https://htmlpreview.github.io/?https://github.com/mplex/sunbelt2022/blob/main/html/Algebraic_structures.html)
+* [Role Structure in Multiplex Networks](https://htmlpreview.github.io/?https://github.com/mplex/sunbelt2022/blob/main/html/Role_structures.html)
+* [Decomposition of Role Structures](https://htmlpreview.github.io/?https://github.com/mplex/sunbelt2022/blob/main/html/Decomposition.html)
+* [Signed Networks](https://htmlpreview.github.io/?https://github.com/mplex/sunbelt2022/blob/main/html/Signed_networks.html)
+* [Affiliation Networks](https://htmlpreview.github.io/?https://github.com/mplex/sunbelt2022/blob/main/html/Affiliation_networks.html)
+* [Multilevel Networks](https://htmlpreview.github.io/?https://github.com/mplex/sunbelt2022/blob/main/html/Multilevel_networks.html)
+
