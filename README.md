@@ -1,5 +1,5 @@
 # sunbelt2022
-Sunbelt 2022 workshop 39 Analysis of complex networks with algebra
+**Sunbelt XLII** workshop 39 Analysis of complex networks with algebra
 
 ## Datasets
 
